@@ -1,0 +1,9 @@
+total 0
+drwxrwxrwx 1 root root 512 May 19 11:29 .
+drwxrwxrwx 1 root root 512 May 19 10:18 ..
+drwxrwxrwx 1 root root 512 May 16 17:22 gobigpicture
+drwxrwxrwx 1 root root 512 May 18 16:56 gocli
+drwxrwxrwx 1 root root 512 May 18 14:30 gocode
+drwxrwxrwx 1 root root 512 May 19 10:47 gostd
+-rwxrwxrwx 1 root root   0 May 19 11:29 test.txt
+drwxrwxrwx 1 root root 512 May 17 16:54 webservice
