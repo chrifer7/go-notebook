@@ -1,0 +1,42 @@
+2022/05/20 15:45:55 First log
+2022/05/20 15:45:58 First log
+2022/05/20 15:45:59 First log
+2022/05/20 15:46:00 First log
+2022/05/20 15:46:02 First log
+2022/05/20 15:51:48 First log
+INFO: 2022/05/20 15:52:12 usinglog.go:49: this is an information message!
+WARNING: 2022/05/20 15:52:12 usinglog.go:52: this is a warning
+ERROR: 2022/05/20 15:52:12 usinglog.go:55: this is an error
+FATAL: 2022/05/20 15:52:12 usinglog.go:58: we crashed
+INFO:  2022/05/20 15:55:07 usinglog.go:50: this is an information message!
+WARNING:2022/05/20 15:55:07 usinglog.go:53: this is a warning
+ERROR: 2022/05/20 15:55:07 usinglog.go:56: this is an error
+FATAL: 2022/05/20 15:55:07 usinglog.go:59: we crashed
+INFO:    2022/05/20 15:55:41 usinglog.go:50: this is an information message!
+WARNING: 2022/05/20 15:55:41 usinglog.go:53: this is a warning
+ERROR:   2022/05/20 15:55:41 usinglog.go:56: this is an error
+FATAL:   2022/05/20 15:55:41 usinglog.go:59: we crashed
+INFO:    2022/05/20 16:00:29 usinglog.go:50: this is an information message!
+WARNING: 2022/05/20 16:00:29 usinglog.go:53: this is a warning
+ERROR:   2022/05/20 16:00:29 usinglog.go:56: this is an error
+FATAL:   2022/05/20 16:00:29 usinglog.go:59: we crashed
+INFO:    2022/05/20 16:04:07 usinglog.go:84: 0 this is an information message!
+WARNING: 2022/05/20 16:04:07 usinglog.go:85: 1 this is a warning
+ERROR:   2022/05/20 16:04:07 usinglog.go:86: 2 this is an error
+FATAL:   2022/05/20 16:04:07 usinglog.go:87: 3 we crashed
+INFO:    2022/05/20 16:04:31 usinglog.go:84: this is an information message!
+WARNING: 2022/05/20 16:04:31 usinglog.go:85: this is a warning
+ERROR:   2022/05/20 16:04:31 usinglog.go:86: this is an error
+FATAL:   2022/05/20 16:04:31 usinglog.go:87: we crashed
+INFO:    2022/05/20 16:04:59 usinglog.go:84: this is an information message!
+WARNING: 2022/05/20 16:04:59 usinglog.go:85: this is a warning
+ERROR:   2022/05/20 16:04:59 usinglog.go:86: this is an error
+FATAL:   2022/05/20 16:04:59 usinglog.go:87: we crashed
+INFO:    2022/05/20 16:14:41 usinglog.go:50: this is an information message!
+WARNING: 2022/05/20 16:14:41 usinglog.go:53: this is a warning
+ERROR:   2022/05/20 16:14:41 usinglog.go:56: this is an error
+FATAL:   2022/05/20 16:14:41 usinglog.go:59: we crashed
+INFO:    14:15:15.192324 C:/Users/lfernandez4/go/src/git-notebook/gostd/contents/usinglog.go:91: this is an information message!
+WARNING: 2022/05/20 16:15:15 usinglog.go:92: this is a warning
+ERROR:   2022/05/20 16:15:15 usinglog.go:93: this is an error
+FATAL:   2022/05/20 16:15:15 usinglog.go:94: we crashed
