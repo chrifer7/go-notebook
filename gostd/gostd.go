@@ -25,5 +25,9 @@ func main() {
 	//contents.OurFirstLog()
 	//contents.PrintLogs()
 	//contents.PrintUsingLoggers()
-	contents.TraceThis()
+	//contents.TraceThis()
+
+	/*5 Working with the Time Package*/
+	//contents.ShowTime()
+	contents.TimeFormat()
 }
