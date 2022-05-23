@@ -29,5 +29,24 @@ func main() {
 
 	/*5 Working with the Time Package*/
 	//contents.ShowTime()
-	contents.TimeFormat()
+	//contents.TimeFormat()
+	//contents.TimeSpans()
+	//contents.Simpleapp() // go run . .\inputs\customerlist.csv
+
+	/*6 Working with Strings in Go*/
+	//contents.Strings()
+	//contents.Compare()
+	//contents.CompareTest()
+	//contents.CaseTest()
+	//contents.SplitTest()
+	//contents.SplitFile()
+	//contents.FindText() // go run . stringtosearch
+	//contents.LogParser()
+	//contents.FindReplace()
+	//contents.Regex()
+	//contents.Trim()
+	contents.Casing()
+
+	/*7 Implementing Reflection*/
+
 }
