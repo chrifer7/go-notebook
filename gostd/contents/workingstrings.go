@@ -287,13 +287,13 @@ func Casing() {
 
 	fmt.Println("Title case: " + strTitleCase)
 
-	properTitleCase := properTitle(sampleString)
+	properTitleCase := ToProperTitle(sampleString)
 
 	fmt.Println("Proper Title case: " + properTitleCase)
 
 }
 
-func properTitle(input string) string {
+func ToProperTitle(input string) string {
 	words := strings.Fields(input) //tokenizer
 	smallwords := " a an on the to "
 

@@ -45,8 +45,12 @@ func main() {
 	//contents.FindReplace()
 	//contents.Regex()
 	//contents.Trim()
-	contents.Casing()
+	//contents.Casing()
 
 	/*7 Implementing Reflection*/
-
+	//contents.CustomType()
+	//contents.ShowTypes()
+	//contents.TypeDemo()
+	//contents.Primitive()
+	contents.CreateFunctions()
 }
